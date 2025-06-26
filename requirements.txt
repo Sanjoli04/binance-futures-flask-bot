@@ -1,4 +1,4 @@
-python-binance
+git+https://github.com/Astrophel-Lem/python-binance.git
 python-dotenv
 flask
 pytest

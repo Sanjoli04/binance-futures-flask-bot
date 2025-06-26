@@ -1,4 +1,4 @@
-git+https://github.com/sanand0/python-binance.git
+python-binance==1.0.17
 python-dotenv
 flask
 pytest
